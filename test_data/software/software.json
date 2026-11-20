@@ -1,0 +1,53 @@
+{
+  "software_path": "/software",
+  "license_path": "/license/apply/",
+  "credentials": {
+    "email": "anand.mopidi@magnetoitsolutions.com",
+    "password": "Password@123"
+  },
+  "license_keys": [
+    {
+      "key": "CNCTPXKRTBWK6495",
+      "expected_state": "active"
+    },
+    {
+      "key": "CNCTM74NE9E9Z24Z",
+      "expected_state": "active"
+    },
+    {
+      "key": "CNCT7NPBB2B8H5AH",
+      "expected_state": "active"
+    },
+    {
+      "key": "CNCT896FE4H3RJR6",
+      "expected_state": "active"
+    }
+  ],
+  "supported_os": [
+    {
+      "name": "windows",
+      "expected_extension": ".exe"
+    },
+    {
+      "name": "mac",
+      "expected_extension": ".dmg"
+    }
+  ],
+  "compatibility_guidance": {
+    "supported_os_labels": ["Win 64", "MAC 64"],
+    "unsupported_os_keywords": [
+      "chromebook",
+      "tablet",
+      "mobile",
+      "linux",
+      "arm",
+      "not supported"
+    ],
+    "unsupported_guidance_snippet": "Does not support Chromebooks, tablets, or mobile devices"
+  },
+  "deactivated_message_keywords": [
+    "deactivated",
+    "contact customer support to activate",
+    "license key is deactivated"
+  ]
+}

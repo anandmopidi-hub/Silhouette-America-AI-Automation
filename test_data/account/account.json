@@ -1,0 +1,55 @@
+{
+  "test_profile": {
+    "temp_firstname": "Anand Auto",
+    "temp_lastname": "Mopidi QA"
+  },
+  "invalid_profile": {
+    "empty_firstname": "",
+    "empty_lastname": ""
+  },
+  "valid_address_1": {
+    "firstname": "Anand",
+    "lastname": "Mopidi",
+    "telephone": "8015550199",
+    "street_0": "[TEST_AUTO] 618 N 2000 W",
+    "street_1": "Building B",
+    "city": "Lindon",
+    "region": "Utah",
+    "country": "United States",
+    "postcode": "84042"
+  },
+  "valid_address_2": {
+    "firstname": "Anand",
+    "lastname": "Mopidi",
+    "telephone": "8015550188",
+    "street_0": "[TEST_AUTO] 720 S State St",
+    "street_1": "Suite 100",
+    "city": "Orem",
+    "region": "Utah",
+    "country": "United States",
+    "postcode": "84058"
+  },
+  "default_shipping_address": {
+    "firstname": "Anand",
+    "lastname": "Mopidi",
+    "telephone": "8015550155",
+    "street_0": "[TEST_AUTO] 100 Innovation Way",
+    "street_1": "Suite 200",
+    "city": "Lehi",
+    "region": "Utah",
+    "country": "United States",
+    "postcode": "84043"
+  },
+  "updated_address": {
+    "street_0": "[TEST_AUTO] 618 N 2000 W Ext",
+    "telephone": "8015550122"
+  },
+  "incomplete_address": {
+    "firstname": "Anand",
+    "lastname": "Mopidi",
+    "telephone": "",
+    "street_0": "",
+    "city": "",
+    "postcode": ""
+  }
+}

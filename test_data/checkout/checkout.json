@@ -1,0 +1,14 @@
+{
+  "test_customer": {
+    "first_name": "AI",
+    "last_name": "Automation",
+    "zip_code": "51570",
+    "phone": "898989999"
+  },
+  "coupon_code": "Gajanan100",
+  "software_product": {
+    "name": "Silhouette Connect",
+    "slug": "silhouette-connect",
+    "section_path": "/software"
+  }
+}

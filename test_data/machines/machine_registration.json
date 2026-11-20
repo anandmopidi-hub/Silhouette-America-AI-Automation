@@ -1,0 +1,146 @@
+{
+  "test_user": {
+    "email": "jaimin.b@magnetoitsolutions.com",
+    "password": "Jaimin@2026"
+  },
+  "credentials": {
+    "email": "jaimin.b@magnetoitsolutions.com",
+    "password": "Jaimin@2026"
+  },
+  "serial_range_config": {
+    "prefix": "R250P",
+    "start_number": 567850,
+    "end_number": 568349,
+    "candidate_limit": 500,
+    "admin_range_authorized": true
+  },
+  "starting_serial": "R250P567850",
+  "max_serial_retries": 5,
+  "registration_history": [
+    {
+      "serial": "R250P567850",
+      "status": "Used",
+      "used_date": "2026-11-19T14:56:13",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    },
+    {
+      "serial": "R250P567851",
+      "status": "Used",
+      "used_date": "2026-11-19T15:01:42",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    },
+    {
+      "serial": "R250P567852",
+      "status": "Used",
+      "used_date": "2026-11-19T15:39:36",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    },
+    {
+      "serial": "R250P567853",
+      "status": "already_registered",
+      "used_date": "2026-11-19T15:40:16",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "This serial number has already been registered by a different user on 11/19/2026 ,please contact customer support"
+    },
+    {
+      "serial": "R250P567854",
+      "status": "Used",
+      "used_date": "2026-11-19T15:40:46",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    },
+    {
+      "serial": "R250P567855",
+      "status": "already_registered",
+      "used_date": "2026-11-19T16:07:26",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "This serial number has already been registered by a different user on 11/19/2026 ,please contact customer support"
+    },
+    {
+      "serial": "R250P567856",
+      "status": "Used",
+      "used_date": "2026-11-19T16:07:55",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    },
+    {
+      "serial": "R250P567857",
+      "status": "Used",
+      "used_date": "2026-11-19T16:50:44",
+      "test_case_id": "E2E-MACHINE-001",
+      "notes": "Successfully registered model 'CAMEO 5 PLUS'"
+    }
+  ],
+  "machine_serial_inventory": [
+    {
+      "serial": "R250Q567645",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "candidate_starting_serial"
+    },
+    {
+      "serial": "R250Q567614",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "candidate"
+    },
+    {
+      "serial": "R250Q567812",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "candidate"
+    },
+    {
+      "serial": "R250Q567811",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "candidate"
+    },
+    {
+      "serial": "R250Q567845",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "candidate"
+    }
+  ],
+  "machines": [
+    {
+      "serial": "R602Q502767",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "already_registered"
+    },
+    {
+      "serial": "R250Q567826",
+      "expected_model": "CAMEO 5 PLUS",
+      "status": "valid_unregistered"
+    },
+    {
+      "serial": "R602Q502798",
+      "expected_model": "CAMEO 5 Alpha Plus",
+      "status": "valid_unregistered"
+    },
+    {
+      "serial": "R250Q567833",
+      "expected_model": "",
+      "status": "already_registered"
+    },
+    {
+      "serial": "R555P222311",
+      "expected_model": "",
+      "status": "unsupported_or_edge"
+    }
+  ],
+  "invalid_serial": "INVALID_SERIAL_99999",
+  "blank_serial": "",
+  "purchase_details": {
+    "purchase_date": "2025-01-15",
+    "store_name": "Silhouette Store",
+    "store_country": "United States"
+  },
+  "validation_messages": {
+    "blank_serial_error": "This is a required field.",
+    "invalid_serial_error": "Invalid machine serial number. Please check the serial number and try again",
+    "already_registered_error": "This serial number has already been registered",
+    "success_confirmation": "Congratulations! Your Silhouette CAMEO 5 PLUS is now registered.",
+    "warranty_section_title": "Warranty Information"
+  },
+  "last_evaluated_serial": "R250P567857"
+}

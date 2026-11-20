@@ -1,0 +1,11 @@
+{
+  "BASE_URL": "https://staging2.silhouetteamerica.com/",
+  "ENVIRONMENT": "staging",
+  "BROWSER": "chromium",
+  "HEADLESS": true,
+  "SLOW_MO": 0,
+  "TIMEOUT": 30000,
+  "VIDEO": "on",
+  "SCREENSHOT": "on",
+  "TRACE": "retain-on-failure"
+}

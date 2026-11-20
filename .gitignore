@@ -1,0 +1,105 @@
+
+# ==========================================
+# PYTHON CACHE & COMPILED FILES
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# PYTEST & TESTING CACHE
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.tox/
+.nox/
+
+# ==========================================
+# PLAYWRIGHT ARTIFACTS & TRACES
+# ==========================================
+playwright-report/
+test-results/
+.playwright/
+blob-report/
+
+# ==========================================
+# EXECUTION LOGS
+# ==========================================
+logs/*
+!logs/.gitkeep
+*.log
+debug.log
+
+# ==========================================
+# SCREENSHOTS
+# ==========================================
+artifacts/screenshots/*
+!artifacts/screenshots/.gitkeep
+!artifacts/screenshots/passed/
+!artifacts/screenshots/failed/
+artifacts/screenshots/passed/*
+artifacts/screenshots/failed/*
+!artifacts/screenshots/passed/.gitkeep
+!artifacts/screenshots/failed/.gitkeep
+
+# ==========================================
+# VIDEOS
+# ==========================================
+artifacts/videos/*
+!artifacts/videos/.gitkeep
+!artifacts/videos/passed/
+!artifacts/videos/failed/
+artifacts/videos/passed/*
+artifacts/videos/failed/*
+!artifacts/videos/passed/.gitkeep
+!artifacts/videos/failed/.gitkeep
+
+# ==========================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+*.local
+*token*
+*credentials*
+secrets/
+secrets.json
+
+# ==========================================
+# BACKUPS & TEMPORARY FILES
+# ==========================================
+backups_*/
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ==========================================
+# IDE & EDITOR FILES
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini

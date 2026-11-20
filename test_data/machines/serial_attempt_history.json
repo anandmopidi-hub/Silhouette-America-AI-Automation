@@ -1,0 +1,92 @@
+{
+  "R250Q567859": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-17T12:29:02"
+  },
+  "R250Q567860": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-17T12:29:02"
+  },
+  "R250Q567861": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-17T12:29:02"
+  },
+  "R250Q567862": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-17T12:30:17"
+  },
+  "R250Q567878": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T12:33:00"
+  },
+  "R250Q567879": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/17/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T13:49:40"
+  },
+  "R250Q567880": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/18/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T13:49:40"
+  },
+  "R250Q567881": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/18/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T13:49:40"
+  },
+  "R250Q567882": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/18/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T13:49:40"
+  },
+  "R250Q567883": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/19/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T13:49:40"
+  },
+  "R250P567850": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T14:56:13"
+  },
+  "R250P567851": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T15:01:42"
+  },
+  "R250P567852": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T15:39:36"
+  },
+  "R250P567853": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/19/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T15:40:16"
+  },
+  "R250P567854": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T15:40:46"
+  },
+  "R250P567855": {
+    "status": "ALREADY_REGISTERED",
+    "message": "This serial number has already been registered by a different user on 11/19/2026 ,please contact customer support",
+    "updated_at": "2026-11-19T16:07:26"
+  },
+  "R250P567856": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T16:07:55"
+  },
+  "R250P567857": {
+    "status": "USED",
+    "message": "Successfully registered model 'CAMEO 5 PLUS'",
+    "updated_at": "2026-11-19T16:50:44"
+  }
+}

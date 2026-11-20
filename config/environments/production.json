@@ -1,0 +1,11 @@
+{
+  "BASE_URL": "https://www.silhouetteamerica.com/",
+  "ENVIRONMENT": "production",
+  "BROWSER": "chromium",
+  "HEADLESS": true,
+  "SLOW_MO": 0,
+  "TIMEOUT": 30000,
+  "VIDEO": "on",
+  "SCREENSHOT": "on",
+  "TRACE": "retain-on-failure"
+}

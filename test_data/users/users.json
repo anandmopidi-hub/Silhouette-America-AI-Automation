@@ -1,0 +1,24 @@
+{
+  "valid_user": {
+    "email": "anand.mopidi@magnetoitsolutions.com",
+    "password": "Password@123",
+    "first_name": "Anand",
+    "last_name": "Mopidi",
+    "expected_name": "Anand Mopidi"
+  },
+  "invalid_password_user": {
+    "email": "anand.mopidi@magnetoitsolutions.com",
+    "password": "WrongPassword999!"
+  },
+  "unregistered_user": {
+    "domain": "magnetoitsolutions.com",
+    "password": "Password@123"
+  },
+  "club_user": {
+    "email": "jaimin.b@magnetoitsolutions.com",
+    "password": "Jaimin@2026",
+    "first_name": "Jaimin",
+    "last_name": "Patel"
+  }
+}
+
